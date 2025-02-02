@@ -1,5 +1,3 @@
-
-<body style="background-image: url('https://www.canva.com/design/DAGd9iSssPc/vRXHHw0lppFn2ake5hitHA/edit?utm_content=DAGd9iSssPc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton');"></body>
 <h1>Hi 👋, I'm Golu Choudhary. A Frontend Web developer. 😎</h1>
 <p>A passionate frontend developer from India. </p>
 <h2>🚀 Languages and Tools I Use</h2>
