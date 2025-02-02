@@ -1,4 +1,5 @@
-<p style="background-image: url('https://www.canva.com/design/DAGd9iSssPc/vRXHHw0lppFn2ake5hitHA/edit?utm_content=DAGd9iSssPc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton');">
+
+<body style="background-image: url('https://www.canva.com/design/DAGd9iSssPc/vRXHHw0lppFn2ake5hitHA/edit?utm_content=DAGd9iSssPc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton');"></body>
 <h1>Hi 👋, I'm Golu Choudhary. A Frontend Web developer. 😎</h1>
 <p>A passionate frontend developer from India. </p>
 <h2>🚀 Languages and Tools I Use</h2>
@@ -39,7 +40,7 @@
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GoluChoudhary001" alt="GoluChoudhary001" /></a></p>
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/GoluChoudhary001/GoluChoudhary001/output/snake.svg" alt="Snake animation" />
+[<img src="https://raw.githubusercontent.com/GoluChoudhary001/GoluChoudhary001/output/snake.svg" alt="Snake animation" />]
 
 ###
 
